@@ -7,18 +7,23 @@
 ![시작화면](https://user-images.githubusercontent.com/39873890/194748452-c624f9a2-3d86-42d9-b7e4-b680915dfdbb.png)
 <hr>
 <br>
+
 # 2. 방을 만들거나 참가해서 로비에서 게임을 시작하세요
+
 ![Lobby](https://user-images.githubusercontent.com/39873890/194748484-d254b854-fe9e-4542-ba45-d94974556afe.png)
 <hr>
 <br>
+
 # 3. 로딩을 기다리세요
 ![Loading](https://user-images.githubusercontent.com/39873890/194748501-ea0308aa-ba03-46a0-9e46-f264e96fb82e.png)
 <hr>
 <br>
+
 # 4. 게임의 시작화면 입니다. 단축키를 Tab키를 눌러서 확인하세요.
 ![start](https://user-images.githubusercontent.com/39873890/194748558-d86b44b6-8dfa-4e1c-b4e5-eef77244bd27.png)
 <hr>
 <br>
+
 # 5. 자원을 캐세요! (StarLight, Cazelin 2종류 입니다)
 ![Starlight](https://user-images.githubusercontent.com/39873890/194748594-8f617176-fa10-47d8-a69d-643d64a08134.png)
 ![cazelin](https://user-images.githubusercontent.com/39873890/194748603-7052b1db-a1ce-4acc-9f9f-768164f66be6.png)
